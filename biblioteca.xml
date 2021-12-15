@@ -1,17 +1,19 @@
 <biblioteca>
     <libro1>
         <novela>
+            <id>libro1</id>
             <titulo>Coco</titulo>
             <isbn>022</isbn>
             <autor>Mochon</autor>
             <editorial>Tara</editorial>
             <annio_edicion>2012</annio_edicion>
             <estado>Libre</estado>
-            <fecha_devolucion></fecha_devolucion>
+            <fecha_devolucion>/</fecha_devolucion>
         </novela>
     </libro1>
     <libro2>
         <novela>
+            <id>libro2</id>
             <titulo>Bingo</titulo>
             <isbn>023</isbn>
             <autor>Mochon</autor>
@@ -23,17 +25,19 @@
     </libro2>
     <libro3>
         <novela>
+            <id>libro3</id>
             <titulo>Mailo</titulo>
             <isbn>024</isbn>
             <autor>Mochon</autor>
             <editorial>Tara</editorial>
             <annio_edicion>2012</annio_edicion>
             <estado>Libre</estado>
-            <fecha_devolucion></fecha_devolucion>
+            <fecha_devolucion>/</fecha_devolucion>
         </novela>
     </libro3>
     <libro4>
         <novela>
+            <id>libro4</id>
             <titulo>Molly</titulo>
             <isbn>025</isbn>
             <autor>Mochon</autor>
